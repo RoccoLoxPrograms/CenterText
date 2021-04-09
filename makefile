@@ -3,7 +3,7 @@
 # ----------------------------
 
 NAME ?= CENTER
-ICON ?= RoccoLox(16x16).PNG
+ICON ?= 
 DESCRIPTION ?= "Center Text"
 COMPRESSED ?= YES
 ARCHIVED ?= YES
